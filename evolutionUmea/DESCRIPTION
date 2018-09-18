@@ -1,0 +1,14 @@
+Package: evolutionUmea
+Version: 0.97
+Date: 2016-04-21
+Title: Evolution Umea Class Material
+Author: Xavier Thibert-Plante
+Maintainer: Xavier Thibert-Plante <xavier@thibert-plante.com>
+Depends:
+    R (>= 1.8.0), igraph
+Suggests:
+    NONE   
+Description: Material for the evolution class
+License: GPL version 2 or newer
+URL: http://xavier.thibert-plante.com
+RoxygenNote: 5.0.1
